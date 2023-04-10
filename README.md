@@ -1,1 +1,8 @@
-# otya-computer-architecture-i
+# コンピュータアーキテクチャ I
+
+お茶の水女子大学で行っている「コンピュータアーキテクチャ I」の講義の資料です．
+
+
+## 講義資料
+
+1. [イントロ](./cai-shioya-01.pptx?raw=true) （[PDF版](./cai-shioya-01.pdf)）
