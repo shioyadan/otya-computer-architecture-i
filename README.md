@@ -35,6 +35,10 @@
 8. [性能モデル](./cai-shioya-08.pptx?raw=true) （[PDF版](./cai-shioya-08.pdf)）
     * クロック周波数と IPC 
     * 理想的な実行とハザードが起きた場合の性能
+9. [メモリとキャッシュ](./cai-shioya-09.pptx?raw=true) （[PDF版](./cai-shioya-09.pdf)）
+    * メモリの構造
+    * 容量と速度
+    * キャッシュの基本
 
 
 
