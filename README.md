@@ -42,5 +42,8 @@
 10. [キャッシュの詳細](./cai-shioya-10.pptx?raw=true) （[PDF版](./cai-shioya-10.pdf)）
     * キャッシュの構造
     * 行列積の例
+11. [仮想メモリと特権モード](./cai-shioya-11.pptx?raw=true) （[PDF版](./cai-shioya-11.pdf)）
+    * 仮想メモリ
+    * 特権モード
 
 
