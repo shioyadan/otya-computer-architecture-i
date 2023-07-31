@@ -50,5 +50,8 @@
 11. [仮想メモリと特権モード](./cai-shioya-11.pptx?raw=true) （[PDF版](./cai-shioya-11.pdf)）
     * 仮想メモリ
     * 特権モード
+12. [最終回（前回課題の説明）](./cai-shioya-12.pptx?raw=true) （[PDF版](./cai-shioya-12.pdf)）
 
+## 補足
+1. [練習問題](./cai-shioya-exercises.pptx?raw=true) （[PDF版](./cai-shioya-exercises.pdf)）
 
